@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Users/ianeduardoherronortiz/Desktop/**)",
+      "Bash(npx create-next-app@latest herrondev-portfolio --typescript --tailwind --app --no-src-dir --import-alias \"@/*\" --no-git --yes)"
+    ]
+  }
+}
