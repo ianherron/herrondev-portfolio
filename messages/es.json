@@ -1,0 +1,86 @@
+{
+  "Navbar": {
+    "about": "Sobre mí",
+    "projects": "Proyectos",
+    "skills": "Habilidades",
+    "experience": "Experiencia",
+    "contact": "Contacto",
+    "hire": "Contrátame"
+  },
+  "Hero": {
+    "eyebrow": "Disponible para trabajo remoto",
+    "heading1": "Construyendo",
+    "heading2": "Web Apps",
+    "heading3": "Modernas y Soluciones Digitales",
+    "subtitle": "Costa Rica · Trabajo remoto · Bilingüe EN/ES",
+    "bio_prefix": "Desarrollador full-stack especializado en",
+    "bio_suffix": ". Construyo productos SaaS y sitios web empresariales desde el diseño hasta el despliegue.",
+    "cta_projects": "Ver Proyectos",
+    "cta_contact": "Contáctame",
+    "scroll": "Desplazar"
+  },
+  "About": {
+    "eyebrow": "Quién Soy",
+    "heading": "Sobre",
+    "heading_accent": "Mí",
+    "p1": "Desarrollador full-stack con base en Limón, Costa Rica. Especializado en Next.js, TypeScript y Supabase. Construyo productos web completos desde el diseño hasta el despliegue — plataformas SaaS, sitios web empresariales y sistemas a medida.",
+    "p2": "Experiencia en soporte técnico bilingüe para empresas de EE.UU. (Experian, Foundever). Actualmente terminando una licenciatura en Ingeniería de Software en la Universidad Fidelitas.",
+    "p3": "Trabajo freelance bajo HerronDev, enfocado en soluciones digitales limpias, rápidas y escalables.",
+    "stat_projects": "Proyectos Lanzados",
+    "stat_saas": "Productos SaaS",
+    "stat_years": "Años en Tecnología",
+    "stat_bilingual": "Bilingüe"
+  },
+  "Projects": {
+    "eyebrow": "Lo Que He Construido",
+    "heading": "Proyectos",
+    "view": "Ver Proyecto",
+    "coming_soon": "Próximamente",
+    "nailflow_desc": "Plataforma SaaS para técnicas de uñas. Citas, correos automatizados, gestión de clientes, pagos SINPE Móvil, panel de reportes y suscripciones con Lemon Squeezy.",
+    "nailflow_badge": "En vivo · $6.99/mes",
+    "arenanegra_desc": "E-commerce para una marca de ropa urbana. Diseño personalizado, catálogo de productos y presencia digital completa.",
+    "arenanegra_badge": "En Desarrollo",
+    "inspection_desc": "Sitio web corporativo bilingüe (EN/ES) para una empresa de inspección marítima. Formularios de contacto e i18n completo.",
+    "inspection_badge": "En Desarrollo"
+  },
+  "Skills": {
+    "eyebrow": "Lo Que Uso",
+    "heading": "Stack",
+    "heading_accent": "Tecnológico",
+    "cat_frontend": "Frontend",
+    "cat_backend": "Backend y BD",
+    "cat_integrations": "Integraciones",
+    "cat_tools": "Herramientas"
+  },
+  "Experience": {
+    "eyebrow": "Mi Trayectoria",
+    "heading": "Experiencia",
+    "current_badge": "Actual",
+    "herrondev_role": "Desarrollador de Software",
+    "herrondev_company": "HerronDev",
+    "herrondev_period": "2024 – Presente",
+    "herrondev_desc": "Freelance. Productos SaaS y sitios web empresariales con Next.js y Supabase. Responsabilidad total desde el diseño hasta el despliegue en producción.",
+    "experian_role": "Especialista en Soporte Técnico",
+    "experian_company": "Experian",
+    "experian_period": "2023 – 2026",
+    "experian_desc": "Soporte remoto bilingüe (EN/ES) para servicios de crédito en EE.UU. Resolución de problemas técnicos y de cuenta para consumidores y empresas.",
+    "foundever_role": "Soporte al Cliente",
+    "foundever_company": "Foundever",
+    "foundever_period": "2022 – 2023",
+    "foundever_desc": "Soporte técnico bilingüe para clientes de EE.UU. Servicio al cliente de alto volumen en inglés y español."
+  },
+  "Contact": {
+    "eyebrow": "Ponte en Contacto",
+    "heading1": "Trabajemos",
+    "heading2": "Juntos",
+    "subtext": "Disponible para proyectos freelance y oportunidades de tiempo completo remotas. Construyamos algo increíble.",
+    "email_label": "Correo",
+    "whatsapp_label": "WhatsApp",
+    "linkedin_label": "LinkedIn",
+    "connect": "Conectar",
+    "location": "Limón, Costa Rica · UTC−6 · Trabajo remoto"
+  },
+  "Footer": {
+    "copy": "© {year} HerronDev · Ian Herron · Costa Rica"
+  }
+}
